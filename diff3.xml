@@ -1,0 +1,13 @@
+--- example1.xml	2017-03-24 00:31:37.104465600 +0100
++++ example2.xml	2017-03-24 00:30:47.548618700 +0100
+@@ -1,7 +1,9 @@
+ <root>
+ 	<branch id="1">
+-		<leaf>unefeulle</leaf>
++		<leaf>unehoja</leaf>
+ 	</branch>
++
++	
+ 	<branch id="2">
+ 		<leaf>autrefeuille</leaf>
+ 	</branch>
